@@ -5,7 +5,7 @@
   <h2>Topics covered</h2>
   <ol>
     <li>Classes in python</li>
-    <li>File handling/li>
+    <li>File handling</li>
     <li>Dictionary</li>
     <li>Sets</li>
     <li>Lists</li>
