@@ -2,6 +2,13 @@
 
 - This tutorial includes everything related to python3
 
-<div align="center">
   <h2>Topics covered</h2>
-</div>
+  <ol>
+    <li>Classes in python</li>
+    <li>File handling/li>
+    <li>Dictionary</li>
+    <li>Sets</li>
+    <li>Lists</li>
+    <li>Tuples</li>
+  </ol>
+
